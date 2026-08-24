@@ -42,7 +42,7 @@ fun Strings.zhHK(): String? = when (this) {
     MenuEditEditTag -> "編輯目前條目..."
     MenuEditEditEntryExtra -> "編輯目前條目之附加資料..."
     MenuEditMultipleEditMode -> "編輯所有關聯條目"
-    MenuEditEditModuleExtra -> "bianjimuqianzhixianm..."
+    MenuEditEditModuleExtra -> "編輯目前子xianmu之附加資料..."
     MenuView -> "视图"
     MenuViewToggleMarker -> "显示参数控制线"
     MenuViewPinEntryList -> "固定条目列表"
