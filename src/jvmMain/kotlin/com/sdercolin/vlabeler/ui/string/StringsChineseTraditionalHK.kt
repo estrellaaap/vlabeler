@@ -4,7 +4,7 @@ package com.sdercolin.vlabeler.ui.string
 
 import com.sdercolin.vlabeler.ui.string.Strings.*
 
-fun Strings.zhHK(): String? = when (this) {
+fun Strings.zhHKlegacy(): String? = when (this) {
     AppName -> "vLabeler"
     MenuFile -> "檔案"
     MenuFileNewProject -> "新建項目..."
